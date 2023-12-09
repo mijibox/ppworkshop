@@ -1,0 +1,27 @@
+PERSONAL USE END-USER LICENSE AGREEMENT FOR Sleeping Dumpling Passport Photo Workshop 
+
+By installing, copying or otherwise using Sleeping Dumpling Passport Photo Workshop, you agree to be bound by the terms of the Personal Use End-User License Agreement (EULA). If you do not agree with the terms of this EULA, you may not use or copy the software product.
+
+1. PERSONAL USE: This EULA prohibits you from using Sleeping Dumpling Passport Photo Workshop other than personal or non-commercial use:
+
+You may use Sleeping Dumpling Passport Photo Workshop at home or at work to adjust your own passport photo.
+
+2. GRANT OF LICENSE: This EULA grants you the following non-exclusive rights:
+
+Software: You may use the Sleeping Dumpling Passport Photo Workshop on any number of computers, either standalone, or on a network, as long as every use of the Sleeping Dumpling Passport Photo Workshop is for PERSONAL USE.
+
+Unless expressly permitted under this EULA, you shall not and shall not cause any third party to :
+
+alter, remove, hide or cover proprietary notices in or on Sleeping Dumpling Passport Photo Workshop.
+
+modify or create any derivative works (including, without limitation, translations, transformations, adaptations or other recast or altered versions) based on the Software, or alter the Software in any way
+
+decompile, disassemble or otherwise attempt or assist others to reverse engineer Sleeping Dumpling Passport Photo Workshop.
+
+use, copy, sell, sublicense, lease, rent, loan, assign, convey or otherwise transfer the Software;
+
+make use of the Sleeping Dumpling Passport Photo Workshop for commercial gain, whether directly, indirectly or incidentally.
+
+3. LIABILITY:
+
+THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL SLEEPING DUMPLING LLC. BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
